@@ -1,0 +1,1152 @@
+{
+  "iPhone 16 pro max": {
+    "lifespan": "5-6 years",
+    "problems": "Battery health drops, storage issues",
+    "recycling": "Apple Trade-In Program",
+    "tips": "Charge between 20–80%, avoid overheating, update software regularly."
+  },
+  "Samsung Galaxy S25 ultra": {
+    "lifespan": "4-5 years",
+    "problems": "Battery wear, slow performance",
+    "recycling": "Samsung Recycling Program",
+    "tips": "Close background apps, optimize battery usage, clean cache often."
+  },
+  "Dell Inspiron Laptop": {
+    "lifespan": "4-5 years",
+    "problems": "Fan noise, heating, slow HDD",
+    "recycling": "Dell Recycling Program",
+    "tips": "Keep vents clean, upgrade to SSD, use cooling pad."
+  },
+  "MacBook Air M1": {
+    "lifespan": "6-7 years",
+    "problems": "Battery cycle issues, limited storage",
+    "recycling": "Apple Trade-In Program",
+    "tips": "Keep macOS updated, manage storage, use original charger."
+  },
+  "iPhone 4S": {
+    "lifespan": "5 years",
+    "problems": "App compatibility issues, storage limits",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use for basic calls and music playback."
+  },
+  "iPhone 5": {
+    "lifespan": "5 years",
+    "problems": "Battery degradation, limited updates",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use with power bank, avoid overcharging."
+  },
+  "iPhone 5C": {
+    "lifespan": "4-5 years",
+    "problems": "Plastic body scratches easily, weak battery",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use protective case, backup frequently."
+  },
+  "iPhone 5S": {
+    "lifespan": "5-6 years",
+    "problems": "Slow processor, Touch ID issues",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Reset occasionally to improve performance."
+  },
+  "iPhone 6": {
+    "lifespan": "5-6 years",
+    "problems": "Battery wear, bendgate issues",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use protective case, replace battery if slow."
+  },
+  "iPhone 6 Plus": {
+    "lifespan": "5-6 years",
+    "problems": "Overheating, touch disease issue",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Avoid rough handling, use cooling pad apps."
+  },
+  "iPhone 6S": {
+    "lifespan": "5-6 years",
+    "problems": "Battery drains quickly, old chip performance",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Turn off background apps, keep optimized charging on."
+  },
+  "iPhone 6S Plus": {
+    "lifespan": "5-6 years",
+    "problems": "Storage limits, heating under load",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Offload unused apps, use power-saving mode."
+  },
+  "iPhone SE (1st Gen)": {
+    "lifespan": "5 years",
+    "problems": "Small battery, outdated chip",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use for light apps, avoid gaming."
+  },
+  "iPhone 7": {
+    "lifespan": "5-6 years",
+    "problems": "Battery degradation, no headphone jack",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use wireless headphones, replace battery."
+  },
+  "iPhone 7 Plus": {
+    "lifespan": "5-6 years",
+    "problems": "Camera stabilization issues, battery wear",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use optimized charging, keep device cool."
+  },
+  "iPhone 8": {
+    "lifespan": "5-6 years",
+    "problems": "Battery drain, heating under load",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Keep brightness low, avoid extreme temperatures."
+  },
+  "iPhone 8 Plus": {
+    "lifespan": "5-6 years",
+    "problems": "Big size, fragile glass back",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use strong case, enable low power mode."
+  },
+  "iPhone X": {
+    "lifespan": "5-6 years",
+    "problems": "OLED burn-in, Face ID issues",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use dark mode, avoid drops."
+  },
+  "iPhone XR": {
+    "lifespan": "5-6 years",
+    "problems": "LCD display quality, battery wear",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Keep iOS updated, manage background apps."
+  },
+  "iPhone XS": {
+    "lifespan": "5-6 years",
+    "problems": "Glass fragility, Face ID sensitivity",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use case & screen protector, avoid moisture."
+  },
+  "iPhone XS Max": {
+    "lifespan": "5-6 years",
+    "problems": "Heavy, fragile, costly screen repairs",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Handle carefully, buy AppleCare if possible."
+  },
+  "iPhone 11": {
+    "lifespan": "6 years",
+    "problems": "Battery degradation, bulky design",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Update iOS regularly, enable battery health features."
+  },
+  "iPhone 11 Pro": {
+    "lifespan": "6 years",
+    "problems": "Battery wear, costly glass repair",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use wireless charging sparingly, handle with care."
+  },
+  "iPhone 11 Pro Max": {
+    "lifespan": "6 years",
+    "problems": "Heavy size, OLED burn-in",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use optimized brightness, dark mode."
+  },
+  "iPhone SE (2nd Gen)": {
+    "lifespan": "5-6 years",
+    "problems": "Small battery, outdated design",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use battery saver, keep iOS updated."
+  },
+  "iPhone 12": {
+    "lifespan": "6 years",
+    "problems": "Fragile ceramic shield glass, heating in 5G",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use MagSafe case, avoid long gaming."
+  },
+  "iPhone 12 Pro": {
+    "lifespan": "6 years",
+    "problems": "Fragile design, costly repairs",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Enable auto-brightness, use screen protector."
+  },
+  "iPhone 12 Pro Max": {
+    "lifespan": "6-7 years",
+    "problems": "Large size, heavy battery drain",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Keep apps optimized, avoid overnight charging."
+  },
+  "iPhone 13": {
+    "lifespan": "6-7 years",
+    "problems": "Heating during gaming, costly battery replacement",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Enable optimized charging, avoid overheating."
+  },
+  "iPhone 13 Pro": {
+    "lifespan": "6-7 years",
+    "problems": "Fragile glass, costly repairs",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use protective case, keep iOS updated."
+  },
+  "iPhone 13 Pro Max": {
+    "lifespan": "6-7 years",
+    "problems": "Heavy weight, repair costs",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use dark mode, reduce brightness."
+  },
+  "iPhone SE (3rd Gen)": {
+    "lifespan": "5-6 years",
+    "problems": "Battery size, old design",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use low power mode, keep updated."
+  },
+  "iPhone 14": {
+    "lifespan": "6-7 years",
+    "problems": "Heating on 5G, high repair cost",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use cooling pad apps, enable low power mode."
+  },
+  "iPhone 14 Pro": {
+    "lifespan": "6-7 years",
+    "problems": "Always-on display battery drain, costly repairs",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Disable always-on if needed, use AppleCare."
+  },
+  "iPhone 14 Pro Max": {
+    "lifespan": "6-7 years",
+    "problems": "Large size, expensive glass repairs",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use protective case, avoid heavy drops."
+  },
+  "iPhone 15": {
+    "lifespan": "7 years",
+    "problems": "Battery heat in gaming, costly repairs",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Enable optimized charging, use MagSafe charger."
+  },
+  "iPhone 15 Pro": {
+    "lifespan": "7 years",
+    "problems": "Titanium frame scratches, repair cost",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use protective case, clean regularly."
+  },
+  "iPhone 15 Pro Max": {
+    "lifespan": "7 years",
+    "problems": "Overheating in some workloads, costly repairs",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Keep apps updated, manage background usage."
+  },
+  "iPhone 16": {
+    "lifespan": "7-8 years",
+    "problems": "Battery degradation, costly parts",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use optimized charging, avoid moisture."
+  },
+  "iPhone 16 Pro": {
+    "lifespan": "7-8 years",
+    "problems": "Large size, heat under gaming",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use cooling pad, enable dark mode."
+  },
+  "iPhone 16 Pro Max": {
+    "lifespan": "7-8 years",
+    "problems": "Expensive repairs, fragile screen",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Buy screen protector, use optimized charging."
+  },
+  "iPhone 16e": {
+    "lifespan": "6 years",
+    "problems": "Budget hardware limitations",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use battery saver, keep iOS updated."
+  },
+  
+  "MacBook Air M2 (13-inch)": {
+    "lifespan": "6-7 years",
+    "problems": "Heating under load, fragile thin design",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use cooling pad, manage background apps."
+  },
+  "MacBook Air M2 (15-inch)": {
+    "lifespan": "6-7 years",
+    "problems": "Big size for Air, heating in multitasking",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use power-saving mode, avoid heavy workloads."
+  },
+  "MacBook Air M3": {
+    "lifespan": "7 years",
+    "problems": "Keyboard wear, heating issues",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Keep vents clean, use external keyboard for long typing."
+  },
+  "MacBook Pro M1 Pro (14-inch)": {
+    "lifespan": "7-8 years",
+    "problems": "Expensive repair, fan noise under load",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Keep macOS updated, use cooling pad."
+  },
+  "MacBook Pro M1 Max (16-inch)": {
+    "lifespan": "7-8 years",
+    "problems": "Heavy weight, costly repairs",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Handle carefully, avoid liquid damage."
+  },
+  "MacBook Pro M2 (13-inch)": {
+    "lifespan": "7 years",
+    "problems": "Old design, battery degradation",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use dark mode, manage charging cycles."
+  },
+  "MacBook Pro M2 Pro (14-inch)": {
+    "lifespan": "7-8 years",
+    "problems": "Expensive, heating under rendering",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use external cooling, optimize performance settings."
+  },
+  "MacBook Pro M2 Max (16-inch)": {
+    "lifespan": "7-8 years",
+    "problems": "Bulky design, repair cost",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Keep battery cycles balanced, avoid heavy gaming."
+  },
+  "MacBook Pro M3 (14-inch)": {
+    "lifespan": "7-8 years",
+    "problems": "Keyboard wear, overheating in heavy tasks",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Keep vents clean, avoid blocking airflow."
+  },
+  "MacBook Pro M3 Max (16-inch)": {
+    "lifespan": "8 years",
+    "problems": "Expensive repairs, bulky weight",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Handle with care, use cooling accessories."
+  },
+  "MacBook Pro M4 (14-inch)": {
+    "lifespan": "8 years",
+    "problems": "New chip heating issues, costly parts",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Update macOS frequently, use AppleCare."
+  },
+  "MacBook Pro M4 Max (16-inch)": {
+    "lifespan": "8 years",
+    "problems": "High power usage, fan noise",
+    "recycling": "Apple Trade-In & Recycling Program",
+    "tips": "Use cooling stand, manage performance settings."
+  },
+
+  "Samsung Galaxy S21": {
+    "lifespan": "5 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Samsung Galaxy S22": {
+    "lifespan": "4-5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Samsung Galaxy S23": {
+    "lifespan": "3-4 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Samsung Galaxy S24": {
+    "lifespan": "3-4 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Samsung Galaxy Note20": {
+    "lifespan": "3-4 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "Samsung Galaxy Z Fold4": {
+    "lifespan": "4-5 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Samsung Galaxy Z Flip5": {
+    "lifespan": "5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "Samsung Galaxy A54": {
+    "lifespan": "3-4 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Samsung Galaxy A73": {
+    "lifespan": "4-5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Samsung Galaxy M54": {
+    "lifespan": "4-5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "Samsung Galaxy Tab S7": {
+    "lifespan": "4-5 years",
+    "problems": "Keyboard/pen pairing issues, charging heat, storage limits",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Use screen protector, avoid extreme heat, update firmware."
+  },
+  "Samsung Galaxy Tab S8 Ultra": {
+    "lifespan": "5-6 years",
+    "problems": "Wi‑Fi dropouts, speaker crackle at high volume, OS update lag",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Use screen protector, avoid extreme heat, update firmware."
+  },
+  "Samsung Galaxy Tab S9+": {
+    "lifespan": "5 years",
+    "problems": "Screen scratches, battery wear, performance drops with heavy apps",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Use screen protector, avoid extreme heat, update firmware."
+  },
+  "Samsung Galaxy Tab A9": {
+    "lifespan": "5-6 years",
+    "problems": "Wi‑Fi dropouts, speaker crackle at high volume, OS update lag",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Use screen protector, avoid extreme heat, update firmware."
+  },
+  "Samsung Galaxy Book2 Pro": {
+    "lifespan": "4-6 years",
+    "problems": "Thermal throttling, dust buildup, costly display repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Calibrate battery yearly, clean keyboard, backup regularly."
+  },
+  "Samsung Galaxy Book3 Ultra": {
+    "lifespan": "4-6 years",
+    "problems": "Thermal throttling, dust buildup, costly display repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Keep vents clean, use cooling pad, update drivers/OS."
+  },
+  "Samsung Galaxy Book4 Pro 360": {
+    "lifespan": "5-6 years",
+    "problems": "Keyboard wear, hinge looseness, limited ports",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Avoid blocking airflow, use surge protector, manage startups."
+  },
+  "Samsung Galaxy A25": {
+    "lifespan": "3-4 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Samsung Galaxy M25": {
+    "lifespan": "3-4 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Samsung Galaxy A26": {
+    "lifespan": "5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Samsung Galaxy M26": {
+    "lifespan": "5 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Samsung Galaxy A27": {
+    "lifespan": "3-4 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Samsung Galaxy M27": {
+    "lifespan": "5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Samsung Galaxy A28": {
+    "lifespan": "5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Samsung Galaxy M28": {
+    "lifespan": "3-4 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Samsung Galaxy A29": {
+    "lifespan": "5 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "Samsung Galaxy M29": {
+    "lifespan": "3-4 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Samsung Galaxy A30": {
+    "lifespan": "3-4 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Samsung Galaxy M30": {
+    "lifespan": "4-5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Samsung Galaxy A31": {
+    "lifespan": "5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Samsung Galaxy M31": {
+    "lifespan": "4-5 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Samsung Galaxy A32": {
+    "lifespan": "3-4 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Samsung Galaxy M32": {
+    "lifespan": "3-4 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Samsung Galaxy A33": {
+    "lifespan": "3-4 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Samsung Galaxy M33": {
+    "lifespan": "3-4 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Samsung Galaxy A34": {
+    "lifespan": "5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Samsung Galaxy M34": {
+    "lifespan": "5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Samsung Galaxy A35": {
+    "lifespan": "4-5 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Samsung Galaxy M35": {
+    "lifespan": "4-5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "Samsung Galaxy A36": {
+    "lifespan": "5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Samsung Galaxy M36": {
+    "lifespan": "5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Samsung Galaxy A37": {
+    "lifespan": "4-5 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Samsung Galaxy M37": {
+    "lifespan": "4-5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "Samsung Galaxy A38": {
+    "lifespan": "4-5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "Samsung Galaxy M38": {
+    "lifespan": "3-4 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Samsung Galaxy A39": {
+    "lifespan": "4-5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "Samsung Galaxy M39": {
+    "lifespan": "3-4 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Samsung Galaxy A40": {
+    "lifespan": "5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Samsung Galaxy M40": {
+    "lifespan": "4-5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Samsung Galaxy A41": {
+    "lifespan": "5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Samsung Galaxy M41": {
+    "lifespan": "5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Samsung Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Redmi Note 13": {
+    "lifespan": "5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Xiaomi 13 Pro": {
+    "lifespan": "5 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "Xiaomi 13 Ultra": {
+    "lifespan": "3-4 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Xiaomi 14": {
+    "lifespan": "4-5 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "Xiaomi 14 Pro": {
+    "lifespan": "3-4 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Xiaomi 14 Ultra": {
+    "lifespan": "3-4 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Redmi Note 12 Pro": {
+    "lifespan": "3-4 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Redmi Note 13 Pro+": {
+    "lifespan": "5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Redmi 12": {
+    "lifespan": "4-5 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "POCO F5": {
+    "lifespan": "4-5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "POCO X5 Pro": {
+    "lifespan": "3-4 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "POCO M6 Pro": {
+    "lifespan": "3-4 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "Xiaomi Pad 6": {
+    "lifespan": "5 years",
+    "problems": "Keyboard/pen pairing issues, charging heat, storage limits",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Keep brightness low, clean ports periodically, backup to cloud."
+  },
+  "Xiaomi Pad 6 Pro": {
+    "lifespan": "5-6 years",
+    "problems": "Wi‑Fi dropouts, speaker crackle at high volume, OS update lag",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Keep brightness low, clean ports periodically, backup to cloud."
+  },
+  "Redmi Pad SE": {
+    "lifespan": "4-5 years",
+    "problems": "Screen scratches, battery wear, performance drops with heavy apps",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Use screen protector, avoid extreme heat, update firmware."
+  },
+  "Mi Notebook 14": {
+    "lifespan": "6 years",
+    "problems": "Heating under heavy load, loud fans, battery wear",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Avoid blocking airflow, use surge protector, manage startups."
+  },
+  "Xiaomi Book Pro 16": {
+    "lifespan": "5-6 years",
+    "problems": "Thermal throttling, dust buildup, costly display repairs",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Calibrate battery yearly, clean keyboard, backup regularly."
+  },
+  "RedmiBook 15": {
+    "lifespan": "6 years",
+    "problems": "Heating under heavy load, loud fans, battery wear",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Keep vents clean, use cooling pad, update drivers/OS."
+  },
+  "Redmi Note 15": {
+    "lifespan": "4-5 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "POCO X15": {
+    "lifespan": "5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Redmi Note 16": {
+    "lifespan": "3-4 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "POCO X16": {
+    "lifespan": "3-4 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Redmi Note 17": {
+    "lifespan": "4-5 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "POCO X17": {
+    "lifespan": "3-4 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "Redmi Note 18": {
+    "lifespan": "4-5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "POCO X18": {
+    "lifespan": "4-5 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Redmi Note 19": {
+    "lifespan": "5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "POCO X19": {
+    "lifespan": "3-4 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Redmi Note 20": {
+    "lifespan": "5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "POCO X20": {
+    "lifespan": "3-4 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Redmi Note 21": {
+    "lifespan": "4-5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "POCO X21": {
+    "lifespan": "5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "Redmi Note 22": {
+    "lifespan": "5 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "POCO X22": {
+    "lifespan": "4-5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Redmi Note 23": {
+    "lifespan": "5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "POCO X23": {
+    "lifespan": "4-5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Redmi Note 24": {
+    "lifespan": "5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "POCO X24": {
+    "lifespan": "3-4 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "Redmi Note 25": {
+    "lifespan": "3-4 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "POCO X25": {
+    "lifespan": "4-5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Redmi Note 26": {
+    "lifespan": "4-5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "POCO X26": {
+    "lifespan": "4-5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "Redmi Note 27": {
+    "lifespan": "4-5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "POCO X27": {
+    "lifespan": "3-4 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "Redmi Note 28": {
+    "lifespan": "5 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "POCO X28": {
+    "lifespan": "3-4 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Charge between 20-80%, disable unnecessary background apps."
+  },
+  "Redmi Note 29": {
+    "lifespan": "4-5 years",
+    "problems": "Storage fills up, performance slows over time, fragile glass",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "POCO X29": {
+    "lifespan": "5 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Enable battery saver, keep OS updated, use original charger."
+  },
+  "Redmi Note 30": {
+    "lifespan": "5 years",
+    "problems": "Battery degradation, heating during gaming, costly screen repairs",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+  "POCO X30": {
+    "lifespan": "5 years",
+    "problems": "Charging port wear, camera dust, screen burn-in risk",
+    "recycling": "Xiaomi Recycling & Trade-In Program",
+    "tips": "Avoid overnight charging, clear cache monthly, use protective case."
+  },
+
+  "Realme 8": {
+    "lifespan": "3-4 years",
+    "problems": "Battery drain, heating during gaming, average camera in low light",
+    "recycling": "Realme Recycling Program",
+    "tips": "Enable battery saver, avoid overcharging, update ColorOS regularly."
+  },
+  "Realme 8 Pro": {
+    "lifespan": "3-4 years",
+    "problems": "Screen burn-in risk, heating while charging, limited OS updates",
+    "recycling": "Realme Recycling Program",
+    "tips": "Use original charger, clear cache monthly, keep apps updated."
+  },
+  "Realme 8i": {
+    "lifespan": "3-4 years",
+    "problems": "Lag after 2 years, fragile back panel, weak low-light camera",
+    "recycling": "Realme Recycling Program",
+    "tips": "Use protective case, manage background apps, backup regularly."
+  },
+  "Realme 8s 5G": {
+    "lifespan": "3-4 years",
+    "problems": "Battery degradation, mid-performance over time, charging port wear",
+    "recycling": "Realme Recycling Program",
+    "tips": "Keep charging cycles between 20–80%, update software, clean ports."
+  },
+
+    "Apple MacBook Air (M1, 2020)": {
+        "lifespan": "5\u20138 years",
+        "problems": "Battery wear, keyboard dust",
+        "recycling": "Apple Recycling Program",
+        "tips": "Avoid deep discharges; keep macOS updated"
+    },
+    "Apple MacBook Air (M2, 2022)": {
+        "lifespan": "5\u20138 years",
+        "problems": "Heat under heavy load, charger wear",
+        "recycling": "Apple Store trade-in",
+        "tips": "Use gentle cases; monitor battery cycle count"
+    },
+    "Apple MacBook Pro 13 (M1/M2)": {
+        "lifespan": "5\u20138 years",
+        "problems": "Fanless thermal throttling, battery aging",
+        "recycling": "Apple Trade In",
+        "tips": "Use Activity Monitor to spot runaway apps"
+    },
+    "Apple MacBook Pro 14/16 (M1 Pro/Max, M2 Pro/Max)": {
+        "lifespan": "6\u20139 years",
+        "problems": "Heavy loads heat, dongle needs for ports",
+        "recycling": "Apple recycling & trade-in",
+        "tips": "Ensure ventilation; use correct power adapter"
+    },
+    "Dell XPS 13": {
+        "lifespan": "4\u20137 years",
+        "problems": "Fan noise, thermal throttling",
+        "recycling": "Dell recycling program",
+        "tips": "Clean vents, update BIOS and drivers"
+    },
+    "Dell XPS 15": {
+        "lifespan": "4\u20137 years",
+        "problems": "GPU/heat under load, battery swelling",
+        "recycling": "Dell trade-in & recycling",
+        "tips": "Undervolt GPU for long sessions; manage power profile"
+    },
+    "Dell Inspiron 15": {
+        "lifespan": "3\u20136 years",
+        "problems": "Slow HDD/SSD, plastic hinge wear",
+        "recycling": "Dell recycling centers",
+        "tips": "Upgrade to SSD; keep vents clear"
+    },
+    "Dell Latitude": {
+        "lifespan": "5\u20138 years",
+        "problems": "Battery aging, keyboard wear",
+        "recycling": "Dell corporate recycling",
+        "tips": "Use surge protection; keep firmware current"
+    },
+    "Dell G Series": {
+        "lifespan": "3\u20136 years",
+        "problems": "Fan dust, GPU temps, battery drains gaming",
+        "recycling": "Dell recycling program",
+        "tips": "Clean fans often; use cooling pad"
+    },
+    "Dell Alienware m15/m17": {
+        "lifespan": "3\u20136 years",
+        "problems": "Heavy heat, RGB controller glitches",
+        "recycling": "Dell/Alienware recycling",
+        "tips": "Ensure good ventilation; update firmware for GPU"
+    },
+
+    
+    "iPad (9th Gen, 2021)": {
+        "lifespan": "5\u20137 years",
+        "problems": "Battery wear, screen scratches",
+        "recycling": "Apple Recycling Program",
+        "tips": "Use screen protector; avoid deep discharges"
+    },
+    "iPad (10th Gen, 2022)": {
+        "lifespan": "5\u20137 years",
+        "problems": "Camera placement awkward, battery aging",
+        "recycling": "Apple Trade In",
+        "tips": "Keep iPadOS updated; use protective case"
+    },
+    "iPad mini (6th Gen, 2021)": {
+        "lifespan": "5\u20137 years",
+        "problems": "Jelly scrolling effect, battery decline",
+        "recycling": "Apple Recycling Program",
+        "tips": "Avoid overheating; use low-power mode"
+    },
+    "iPad mini (5th Gen, 2019)": {
+        "lifespan": "4\u20136 years",
+        "problems": "Battery cycles degrade, screen small for some apps",
+        "recycling": "Apple Store trade-in",
+        "tips": "Limit background refresh; store at 50% if unused long-term"
+    },
+    "iPad Air (5th Gen, 2022, M1)": {
+        "lifespan": "5\u20137 years",
+        "problems": "Screen laminate scratches, battery life decline",
+        "recycling": "Apple Trade In",
+        "tips": "Use protective case; keep iPadOS updated"
+    },
+    "iPad Air (4th Gen, 2020)": {
+        "lifespan": "4\u20136 years",
+        "problems": "USB-C port wear, battery aging",
+        "recycling": "Apple Recycling Program",
+        "tips": "Avoid overcharging; use optimized charging"
+    },
+    "iPad Pro 11 (2022, M2)": {
+        "lifespan": "6\u20138 years",
+        "problems": "Expensive repairs, high battery drain under Pro apps",
+        "recycling": "Apple Recycling Program",
+        "tips": "Use official chargers; enable ProMotion wisely"
+    },
+    "iPad Pro 12.9 (2021, M1)": {
+        "lifespan": "6\u20138 years",
+        "problems": "Heavy for hand use, battery wear",
+        "recycling": "Apple Trade In",
+        "tips": "Use stand for long use; avoid overheating"
+    },
+    "iPad Pro 11 (2021, M1)": {
+        "lifespan": "6\u20138 years",
+        "problems": "High power drain, FaceID sensitivity",
+        "recycling": "Apple Recycling Program",
+        "tips": "Keep brightness lower; use external keyboard for productivity"
+    },
+    "iPad Pro 12.9 (2020)": {
+        "lifespan": "5\u20137 years",
+        "problems": "Battery cycles, screen blooming",
+        "recycling": "Apple Recycling Program",
+        "tips": "Avoid prolonged gaming sessions on battery"
+    },
+    "iPad Pro 11 (2020)": {
+        "lifespan": "5\u20137 years",
+        "problems": "Battery drain, FaceID quirks",
+        "recycling": "Apple Store Trade In",
+        "tips": "Close background apps; use smart keyboard"
+    },
+    "iPad (8th Gen, 2020)": {
+        "lifespan": "4\u20136 years",
+        "problems": "Screen scratches, battery aging",
+        "recycling": "Apple Trade In",
+        "tips": "Use case and screen guard; charge overnight carefully"
+    },
+    "iPad (7th Gen, 2019)": {
+        "lifespan": "4\u20136 years",
+        "problems": "Performance lag over time, battery cycles",
+        "recycling": "Apple Store recycling",
+        "tips": "Disable heavy animations; keep storage free"
+    },
+    "iPad Pro 12.9 (2018)": {
+        "lifespan": "4\u20136 years",
+        "problems": "Bendgate concerns, battery decline",
+        "recycling": "Apple Recycling Program",
+        "tips": "Handle gently; store flat in bag"
+    },
+    "iPad Pro 11 (2018)": {
+        "lifespan": "4\u20136 years",
+        "problems": "Bending, battery wear",
+        "recycling": "Apple Trade In",
+        "tips": "Keep in protective case; avoid pressure on back"
+    },
+    "iPad Air (3rd Gen, 2019)": {
+        "lifespan": "4\u20136 years",
+        "problems": "Battery aging, laminated screen repair costly",
+        "recycling": "Apple Store trade-in",
+        "tips": "Charge between 20\u201380%; use case"
+    },
+    "iPad mini (4th Gen, 2015)": {
+        "lifespan": "3\u20135 years",
+        "problems": "Outdated iOS support, battery aging",
+        "recycling": "Apple Recycling Program",
+        "tips": "Use light apps only; manage storage"
+    },
+    "iPad (6th Gen, 2018)": {
+        "lifespan": "4\u20136 years",
+        "problems": "Performance drop, battery degradation",
+        "recycling": "Apple Trade In",
+        "tips": "Keep iOS updated within limits; optimize storage"
+    },
+    "iPad (5th Gen, 2017)": {
+        "lifespan": "3\u20135 years",
+        "problems": "Performance slowdown, battery aging",
+        "recycling": "Apple Recycling Program",
+        "tips": "Use lightweight apps; keep brightness moderate"
+    },
+    "iPad Pro 9.7 (2016)": {
+        "lifespan": "3\u20135 years",
+        "problems": "Battery cycles, outdated support",
+        "recycling": "Apple Store recycling",
+        "tips": "Use mainly for browsing/media; battery replacement if needed"
+    }
+
+  }
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gadget Lifespan Calculator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Navigation -->
+  <header>
+    <div class="nav-left">
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+    </div>
+    <button id="darkModeToggle">🌙 Toggle Dark Mode</button>
+  </header>
+
+  <h1>🔋 Gadget Lifespan Calculator</h1>
+
+  <main>
+    <!-- Search bar with suggestions -->
+    <div class="input-section">
+      <div class="search-wrapper">
+        <input type="text" id="deviceInput" placeholder="Enter device model..." onkeyup="showSuggestions(this.value)">
+        <div id="suggestions"></div>
+      </div>
+      <input type="number" id="yearInput" placeholder="Purchase Year (YYYY)">
+      <button onclick="checkLifespan()">Check Lifespan</button>
+    </div>
+
+    <!-- Result -->
+    <div id="result"></div>
+
+    <!-- Battery meter -->
+    <div class="battery-meter">
+      <div id="batteryFill"></div>
+    </div>
+    <p id="batteryPercent">🔋 Estimated Health: 0<sup>%</sup></p>
+
+    <!-- Tip of the Day -->
+    <div id="tipBox">
+      <h3>💡 Tip of the Day</h3>
+      <p id="tipText"></p>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
